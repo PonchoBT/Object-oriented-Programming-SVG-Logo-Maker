@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
             <!-- Add the shape first -->
-            <polygon points="0,200 300,200 150,0" fill="red"></polygon>
+            <polygon points="0,200 300,200 150,0" fill="BLUE"></polygon>
             <!-- Then add the text -->
-            <text x="150" y="100" font-size="35" fill="blue" text-anchor="middle">hol</text>
+            <text x="150" y="130" font-size="35" fill="WHITE" text-anchor="middle">OLA</text>
           </svg>
