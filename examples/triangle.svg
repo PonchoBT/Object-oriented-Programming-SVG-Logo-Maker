@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
             <!-- Add the shape first -->
-            <rect x="50" height="200" width="300" fill="YELLOW"></rect>
+            <polygon points="0,200 300,200 150,0" fill="BLUE"></polygon>
             <!-- Then add the text -->
-            <text x="170" y="110" font-size="60" fill="WHITE" text-anchor="middle">SVG</text>
+            <text x="150" y="130" font-size="60" fill="WHITE" text-anchor="middle">SVG</text>
           </svg>
