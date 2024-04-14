@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="300" height="200">
             <!-- Add the shape first -->
-            <rect x="50" height="200" width="300" fill="YELLOW"></rect>
+            <circle cx="150" cy="100" r="80" fill="GREEN"></circle>
             <!-- Then add the text -->
-            <text x="170" y="110" font-size="60" fill="WHITE" text-anchor="middle">SVG</text>
+            <text x="150" y="125" font-size="60" fill="WHITE" text-anchor="middle">SVG</text>
           </svg>
